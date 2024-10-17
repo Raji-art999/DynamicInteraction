@@ -32,6 +32,6 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/atomica_dynamics.git
-   cd atomica_dynamics
+   git clone https://github.com/yourusername/dynamicinteraction.git
+   cd dynamicinteraction
 
