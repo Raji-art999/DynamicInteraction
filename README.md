@@ -1,2 +1,2 @@
-# AtomDynamicInteraction
- focuses on simulation, algorithm and behaviors
+DynamicInteraction
+ focuses on algorithm and behaviors
