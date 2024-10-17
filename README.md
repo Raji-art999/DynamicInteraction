@@ -35,3 +35,5 @@ Ensure you have the following installed on your machine:
    git clone https://github.com/yourusername/dynamicinteraction.git
    cd dynamicinteraction
 
+
+**Output** output.png
